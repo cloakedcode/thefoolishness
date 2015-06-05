@@ -1,0 +1,9 @@
+# Site settings
+title: The Foolishness
+email: alan@airpost.net
+description: The writings of a traveling vagabond.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thefoolishness.com"
+
+# Build settings
+markdown: kramdown
