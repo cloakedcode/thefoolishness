@@ -1,6 +1,7 @@
 # Site settings
 title: The Foolishness
 email: alan@airpost.net
+author: Alan Smith
 description: The writings of a traveling vagabond.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thefoolishness.com"

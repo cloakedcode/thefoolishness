@@ -4,16 +4,20 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
+  <h2>Hi there!</h2>
+  <p>
+    If you've never been here before, welcome! Thanks for dropping by. I suggest reading what this is all <a href='{{ site.baseurl }}/about.html'>about</a>, and then come back here. It won't take long and all of these articles will be right here when you come back. However, feel free to dive in to the writings below if you know what you're doing.
+  </p>
+  <p>
+    Here is everything I've written, in chronological order, most recent first:
+  </p>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>

@@ -6,20 +6,35 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: Georgia, Arial, sans-serif;
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.895;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+//$background-color: #F3EFE8;
+$background-color: #E6E1D6;
 
-$grey-color:       #6c6c6c;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$main-color:       #2C113C;
+$highlight-color:  lighten($main-color, 30%);
+$shadow-color:     darken($main-color, 5%);
+
+$title-color:      lighten($main-color, 30%);
+$title-visited-color: $title-color;
+
+$text-color:       #232323;
+$text-light-color: lighten($text-color, 40%);
+
+$link-color:       $highlight-color;
+$link-visited-color: $shadow-color;
+
+$nav-color:        $title-color;
+$nav-visited-color: lighten($nav-color, 20%);
+
+$grey-color:       #939393;
+$grey-color-light: lighten($grey-color, 30%);
+$grey-color-dark:  darken($grey-color, 40%);
 
 // Width of the content area
 $content-width:    800px;

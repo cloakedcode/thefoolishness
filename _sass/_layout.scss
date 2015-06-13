@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    background-color: $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    background-color: $main-color;
+    border-bottom: 1px solid $highlight-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -18,11 +18,11 @@
     line-height: 56px;
     margin-bottom: 0;
     float: left;
-    color: $grey-color;
+    color: $title-color;
 
     &,
     &:visited {
-        color: $grey-color-light;
+        color: $title-visited-color;
     }
 }
 
@@ -35,12 +35,16 @@
     }
 
     .page-link {
-        color: $grey-color;
+        color: $nav-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+
+        &:visited {
+          color: $nav-visited-color;
         }
     }
 
@@ -95,10 +99,10 @@
  * Site footer
  */
 .site-footer {
-    background-color: $grey-color-dark;
-    border-top: 1px solid $grey-color-light;
+    background-color: $main-color;
+    border-top: 1px solid $highlight-color;
     padding: $spacing-unit 0;
-    color: $grey-color;
+    color: $title-color;
 }
 
 .footer-heading {
@@ -114,7 +118,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color-light;
+    color: $title-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -168,6 +172,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    min-height: 350px;
 }
 
 .page-heading {
@@ -180,12 +185,16 @@
 
     > li {
         margin-bottom: $spacing-unit;
+
+        > h2 {
+          margin-bottom: 0px;
+        }
     }
 }
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $text-light-color;
 }
 
 .post-link {
