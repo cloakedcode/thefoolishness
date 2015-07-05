@@ -116,6 +116,24 @@
     margin-left: 0;
 }
 
+#mc_embed_signup {
+	clear: left;
+}
+
+#mc_embed_signup .button {
+	background-color: $highlight-color;
+	color: $text-color;
+
+	&:hover {
+	 background-color: $shadow-color;
+	 color: $text-light-color;
+	}
+}
+
+#mc_embed_signup input.email {
+	background-color: $background-color;
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $title-color;
