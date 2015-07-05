@@ -8,7 +8,7 @@ I have returned and am back, [home on the range][home-home-on-the-range], in Ups
 
 My first week and a bit back in Lodi was spent hanging out with family in a lake house. [Insert your jealousy here.] We had dinners on the back porch, sang songs around the fire, went kayaking on the lake, blew bubbles of all shapes and sizes, and climbed waterfalls. If you don't believe me, here are some pictures:
 
-<iframe src="https://www.flickr.com/photos/133778021@N05/19235671518/in/album-72157653129719574/player/" width="800" height="534" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/133778021@N05/19235671518/in/set-72157653129719574/player/" width="800" height="534" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 It was, without a doubt, a fantastic time! I'm not sure I've always enjoyed family reunions this much. It was... wait for it... stellar. When it was over, we slept for 3 days.
 
