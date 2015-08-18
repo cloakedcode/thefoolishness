@@ -35,3 +35,6 @@ As for the exhaust, it was possible it could be fixed with some cleaner. However
 
 ## The End
 That's about how it went. It was a long, grueling struggle, and the whole family is glad it's finally over. This trip to visit family on the East side of the state and down to NYC and back is the car's final test drive before I head off. If all goes well, and I return home tomorrow without any car issues, I will leave within the week. Lookout Syracuse!
+
+## Pictures
+<iframe src="https://www.flickr.com/photos/133778021@N05/20654162016/in/set-72157655103854123/player/" width="800" height="534" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
