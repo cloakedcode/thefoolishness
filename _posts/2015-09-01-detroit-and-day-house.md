@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detroit and Day House"
-date:   2015-08-31 21:14:35
+date:   2015-09-01 14:09:35
 ---
 
 The longer I wait to write about Detroit and Day House, the more I don't want to write about it. Not because it's not worth writing about or I have nothing to say, but because the impression it left is fading as I've moved on to other things. After staying at Day House, I visited with a new friend in Detroit and then left to journey North, through the Upper Peninsula and into Canada, around to Thunder Bay. Already I have stories to tell since leaving Detroit, such as the young moose I followed in a canoe, or my camp stove leaking gas and lighting the picnic table on fire, or the loon that was censoring swearing in my dreams. However, those stories will have to wait, I've got to tell you about Detroit.
